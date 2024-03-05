@@ -1,3 +1,8 @@
 train_val/
 *.jpg
 .DS_Store
+*.zip
+*.pg
+*.npz
+events*
+*.keras
